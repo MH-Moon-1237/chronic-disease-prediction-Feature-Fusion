@@ -1,3 +1,6 @@
+# Python version used in the manuscript: 3.10.12
+# Install with Python 3.10.12 in the documented Ubuntu 22.04 LTS environment.
+
 numpy
 pandas
 scikit-learn
